@@ -1,5 +1,5 @@
 # HereDoc
-Indented:
+## Indented:
 >To improve on this, Packer also accepts an indented heredoc string variant that is introduced by the <<- sequence:
 >```
 >block {
